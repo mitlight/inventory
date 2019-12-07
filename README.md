@@ -1,2 +1,0 @@
-# inventory
-very basicinventory
